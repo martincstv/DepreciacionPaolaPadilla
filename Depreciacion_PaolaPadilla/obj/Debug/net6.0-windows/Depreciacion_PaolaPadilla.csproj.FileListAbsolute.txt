@@ -1,0 +1,53 @@
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Cuarto Semestre\PAOLA PADILLA\Calendar\Depreciacion_PaolaPadilla\bin\Debug\net6.0-windows\Depreciacion_PaolaPadilla.exe
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Cuarto Semestre\PAOLA PADILLA\Calendar\Depreciacion_PaolaPadilla\bin\Debug\net6.0-windows\Depreciacion_PaolaPadilla.deps.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Cuarto Semestre\PAOLA PADILLA\Calendar\Depreciacion_PaolaPadilla\bin\Debug\net6.0-windows\Depreciacion_PaolaPadilla.runtimeconfig.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Cuarto Semestre\PAOLA PADILLA\Calendar\Depreciacion_PaolaPadilla\bin\Debug\net6.0-windows\Depreciacion_PaolaPadilla.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Cuarto Semestre\PAOLA PADILLA\Calendar\Depreciacion_PaolaPadilla\bin\Debug\net6.0-windows\Depreciacion_PaolaPadilla.pdb
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Cuarto Semestre\PAOLA PADILLA\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Cuarto Semestre\PAOLA PADILLA\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.Form1.resources
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Cuarto Semestre\PAOLA PADILLA\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Cuarto Semestre\PAOLA PADILLA\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Cuarto Semestre\PAOLA PADILLA\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Cuarto Semestre\PAOLA PADILLA\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Cuarto Semestre\PAOLA PADILLA\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Cuarto Semestre\PAOLA PADILLA\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Cuarto Semestre\PAOLA PADILLA\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\refint\Depreciacion_PaolaPadilla.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Cuarto Semestre\PAOLA PADILLA\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.pdb
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Cuarto Semestre\PAOLA PADILLA\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Cuarto Semestre\PAOLA PADILLA\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\ref\Depreciacion_PaolaPadilla.dll
+C:\Users\dev79\OneDrive\Escritorio\Calendar\Depreciacion_PaolaPadilla\bin\Debug\net6.0-windows\Depreciacion_PaolaPadilla.exe
+C:\Users\dev79\OneDrive\Escritorio\Calendar\Depreciacion_PaolaPadilla\bin\Debug\net6.0-windows\Depreciacion_PaolaPadilla.deps.json
+C:\Users\dev79\OneDrive\Escritorio\Calendar\Depreciacion_PaolaPadilla\bin\Debug\net6.0-windows\Depreciacion_PaolaPadilla.runtimeconfig.json
+C:\Users\dev79\OneDrive\Escritorio\Calendar\Depreciacion_PaolaPadilla\bin\Debug\net6.0-windows\Depreciacion_PaolaPadilla.dll
+C:\Users\dev79\OneDrive\Escritorio\Calendar\Depreciacion_PaolaPadilla\bin\Debug\net6.0-windows\Depreciacion_PaolaPadilla.pdb
+C:\Users\dev79\OneDrive\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.csproj.AssemblyReference.cache
+C:\Users\dev79\OneDrive\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.Form1.resources
+C:\Users\dev79\OneDrive\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.csproj.GenerateResource.cache
+C:\Users\dev79\OneDrive\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev79\OneDrive\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.AssemblyInfoInputs.cache
+C:\Users\dev79\OneDrive\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.AssemblyInfo.cs
+C:\Users\dev79\OneDrive\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.csproj.CoreCompileInputs.cache
+C:\Users\dev79\OneDrive\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.dll
+C:\Users\dev79\OneDrive\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\refint\Depreciacion_PaolaPadilla.dll
+C:\Users\dev79\OneDrive\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.pdb
+C:\Users\dev79\OneDrive\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.genruntimeconfig.cache
+C:\Users\dev79\OneDrive\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\ref\Depreciacion_PaolaPadilla.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Calendar\Depreciacion_PaolaPadilla\bin\Debug\net6.0-windows\Depreciacion_PaolaPadilla.exe
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Calendar\Depreciacion_PaolaPadilla\bin\Debug\net6.0-windows\Depreciacion_PaolaPadilla.deps.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Calendar\Depreciacion_PaolaPadilla\bin\Debug\net6.0-windows\Depreciacion_PaolaPadilla.runtimeconfig.json
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Calendar\Depreciacion_PaolaPadilla\bin\Debug\net6.0-windows\Depreciacion_PaolaPadilla.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Calendar\Depreciacion_PaolaPadilla\bin\Debug\net6.0-windows\Depreciacion_PaolaPadilla.pdb
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.Form1.resources
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.Properties.Resources.resources
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\refint\Depreciacion_PaolaPadilla.dll
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.pdb
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - UNIVERSIDAD TÉCNICA DE AMBATO\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\ref\Depreciacion_PaolaPadilla.dll
+C:\Users\dev79\OneDrive\Escritorio\Calendar\Depreciacion_PaolaPadilla\obj\Debug\net6.0-windows\Depreciacion_PaolaPadilla.Properties.Resources.resources

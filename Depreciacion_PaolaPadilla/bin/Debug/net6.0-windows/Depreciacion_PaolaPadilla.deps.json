@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Depreciacion_PaolaPadilla/1.0.0": {
+        "runtime": {
+          "Depreciacion_PaolaPadilla.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Depreciacion_PaolaPadilla/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
